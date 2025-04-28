@@ -20,10 +20,10 @@ https://github.com/noaa-ocs-modeling/STOFS-operational
 #### A. Main Launch Script
 Modify `launch_stofs.sh`:
 - Replace all instances of `mansur.jisan` with your WCOSS2 username
-- Located in the `ecf` directory
+- Located in the `ecf/3d_atl` directory
 
 #### B. ECFlow Configuration Files
-Update the following files in the ECF directory:
+Update the following files in the ECF/3d_atl directory:
 - `jstofs_3d_atl_prep_v2.ecf`
 - `jstofs_3d_atl_now_forecast_v2.ecf`
 

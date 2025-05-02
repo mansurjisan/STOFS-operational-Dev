@@ -48,7 +48,11 @@ Navigate to the `jobs` directory and modify:
    ```
 
 ## Running the Model
-
+create directory and copy rerun file
+```bash
+cd /lfs/h1/nos/ptmp/mansur.jisan/com/stofs/v2.1/stofs/v2.1/stofs_3d_atl.20250113/rerun
+cp /lfs/h1/ops/prod/com/stofs/v2.1/stofs_3d_atl.20250113/rerun/adt_aft_cvtz_cln.nc .
+```
 ### 1. Launch the Process
 ```bash
 cd ecf
